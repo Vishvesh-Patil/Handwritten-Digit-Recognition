@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.h5
+saved_model/
+.ipynb_checkpoints/
+.DS_Store
